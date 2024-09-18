@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 2345,
+        "featured": true,
+        "company" : "Apple"
+
+    },
+    {
+        "name" : "iphone10",
+        "price" : 9345,
+        "featured": true,
+        "company" : "Apple"
+
+    },
+    {
+        "name" : "s10 Ultra",
+        "price" : 2395,
+        "featured": true,
+        "company" : "Samsung"
+
+    },
+    {
+        "name" : "watch",
+        "price" : 2345,
+        "company" : "Apple"
+
+    },
+    {
+        "name" : "Aspire",
+        "price" : 2345,
+        "featured": true,
+        "company" : "Dell"
+
+    }
+
+]
